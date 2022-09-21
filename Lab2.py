@@ -36,6 +36,7 @@ class Main(QDialog):
                 otvet = x**2 + 5
             self.label_otvet.setText('Ответ: ' + str(format(otvet, '.2f')))
         except:
+            self.label_otvet.setStyleSheet('QLabel {color:red}')
             self.label_otvet.setText(
                 'Ошибка!')
 
