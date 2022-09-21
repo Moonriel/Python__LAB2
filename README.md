@@ -1,1 +1,5 @@
-# Python__LAB2![Скриншот_Лаб2](https://user-images.githubusercontent.com/75249457/191416931-76fa8444-ee11-49c0-9794-50db1d36e188.png)
+# Python__LAB2!
+Лабораторная работа 2
+![Screenshot](screenshot.png)
+![Screenshot](Скриншот_Лаб2.png)
+![Скриншот_Лаб2](https://user-images.githubusercontent.com/75249457/191417331-eb09190b-3b67-432c-b25e-035fa2ff68dd.png)
